@@ -14,7 +14,7 @@ Before looking at the details of Internet email, let us consider a simple scenar
    :align: center
    :scale: 50 
 
-   Simplified architecture of the Internet email 
+   Simplified architecture of the Internet email  
 
 
 The email system that we consider in this book is composed of four components :
